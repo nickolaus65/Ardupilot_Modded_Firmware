@@ -52,7 +52,7 @@ Rode as linhas abaixo para instalar arquivos importantes:
 </h3>
 <p>
 
-    ./Desktop/Modded_Ardupilot/ardupilot/Tools/environment_install/ install-prereqs-ubuntu.sh -y
+    ./home/your/path/here/ardupilot/Tools/environment_install/ install-prereqs-ubuntu.sh -y
     . ~/.profile
     sudo apt-get install gcc-arm-none-eabi
     sudo apt-get update
@@ -63,7 +63,7 @@ Reinicie o computador. E, depois de ligado, vá na pasta ardupilot e com o progr
 </h3>
 <p>
 
-    cd /home/lra/Desktop/Modded_Ardupilot/ardupilot
+    cd /home/your/path/here/ardupilot
     sudo su
     ./waf list_boards
 </p>
