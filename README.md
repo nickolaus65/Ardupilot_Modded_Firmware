@@ -59,7 +59,7 @@ Rode as linhas abaixo para instalar arquivos importantes:
     sudo apt-get upgrade
 </p>
 <h3>
-Reinicie o computador. E depois de ligado vá na pasta ardupilot e com o programa WAF (https://github.com/ArduPilot/ardupilot/blob/master/BUILD.md) verifique qual placa será usada:
+Reinicie o computador. E, depois de ligado, vá na pasta ardupilot e com o programa WAF (https://github.com/ArduPilot/ardupilot/blob/master/BUILD.md) verifique qual placa será usada:
 </h3>
 <p>
 
